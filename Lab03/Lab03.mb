@@ -1,31 +1,34 @@
-1
-William Armstrong
-armstrong.170@wright.edu
+## Lab 03
+
+- Name: William Armstrong
+- Email: Armstrong.170@wright.edu
+
 ## Part 1 Answers
 
-1. Verify here that input.txt made it to GitHub in your `Lab03` folder: It has made it fine.
-2.Sort input.txt
-3. Sort input.txt < output.txt
+1. Verify here that input.txt made it to GitHub in your `Lab03` folder
+2. Sort input.txt
+3.Sort input.txt >> output.txt
 
 ## Script Usage Guide
 
-1. How to run: 
-2. What extensions are expected
-3. What is the output
+1. How to run: Set up a script using vim [filename.sh], add code to script, use bash [filename.sh] to run the file
+2. What extensions are expected. The file extension .sh, input for mine is txt
+3. What is the output: The code runs fine, it outputs to output text sorted numbers from input.txt
+
 
 ## Part 5 Answers
 
-1. PATH =
-2.
-3. Command:
-   - Full path:
-4. PATH =
-   - Difference:
-5.
-6.
-7.
+1. PATH = A command that Called when running other commands. Value is /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:
+2. In the .local file based of the Profile info, the path will look like usr/local/bin/[folder name here]
+3. Command: cd .local/bin, mkdir Uzi
+   - Full path:/home/ubuntu/.local/bin/Uzi
+4. PATH = /home/ubuntu/.local/bin/Uzi /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:
+   - Difference: New path to the .local folder.
+5. cp /home/ubuntu/Lab03/sorting-party.sh /home/ubuntu/.local/bin/Uzi
+6. No Modification is required.
+7.All can use it.
 
 ## Extra Credit
 
-1. Note here if you did the extra credit so the tas can verify :)## Lab 03
+1. Note here if you did the extra credit so the tas can verify :)
 
